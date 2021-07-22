@@ -1,4 +1,4 @@
 # Find-the-pairs-game
 
-Para empezar el juego tiene cartas boca abajo completamente aleatorias, donde el jugador debeera clickear dos cartas, en caso de que sean iguales, se pondrán invisibles y se suma el puntaje. En caso contrario se volterán.
-El objetivo del juego es descubrir todos los pares de cartas en el menor tiempo posible.
+To start the game has completely random face down cards, where the player must click two cards, in case they are the same, they will become invisible and the score is added. Otherwise they will turn around.
+The objective of the game is to discover all the pairs of cards in the shortest time possible.
